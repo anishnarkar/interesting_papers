@@ -1,4 +1,4 @@
-This repo consists of my personal notes on some of the interesting papers I've come across. It is easier for me to refer this repo when in doubt as it is easier than finding notes. Everything in the repo is from my hand written notes. 
+This repo consists of my personal notes on some of the interesting papers, I've come across. It is easier for me to refer this repo when in doubt as it is easier than finding notes. Everything in the repo is from my hand written notes. 
 
 ## Techincal
 1. These are the papers which have an important technical aspect associated with them. 
