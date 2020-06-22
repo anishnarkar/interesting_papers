@@ -1,10 +1,12 @@
-## Where I came across these papers ?
+## Where are the notes from ?
 
-1. A lot of these papers are discussed as a part of ML Journal club at CCDS.
-2. Most of what you read are my handwritten notes/observations which I note when I pre-read these papers or during the presentation
-3. Points stressed by the presenters in their slides/discussions are included as well.
-4. Points which I missed and mentioned by the speaker are also included in these papers.
-5. Upload when I get free time.
+1. Most of what you read are my handwritten notes/observations which I note when I read these papers.
+2. Still incomplete 
+
+### Completed
+
+### Incomplete
+Attention Is All You Need
 
 ## Links to the papers
-Federated Learning: https://arxiv.org/pdf/2002.04758.pdf
+Attention Is All You Need: https://arxiv.org/pdf/1706.03762.pdf
