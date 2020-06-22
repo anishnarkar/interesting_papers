@@ -4,9 +4,11 @@
 2. Still incomplete 
 
 ### Completed
-
-### Incomplete
 Attention Is All You Need
+
+### Comments
+1. Add something about training transformer
+
 
 ## Links to the papers
 Attention Is All You Need: https://arxiv.org/pdf/1706.03762.pdf
